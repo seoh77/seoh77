@@ -7,15 +7,21 @@
   - 자바(Java) 과정
   - 2024.01 ~ 2024.12
 
+<br />
+
 ### ✨ Activities
 
 - **UMC (University MakeUs Challenge)**
   - 대학교 연합 IT 동아리 - Web 파트
   - 2023.09 ~ 2024.02
 
+<br />
+
 ### 🏅 Awards
 
 - 우수상 (2024.08) - SSAFY 공통 프로젝트 : HiFive (크리에이터 팬미팅 플랫폼)
+
+<br />
 
 ### 🛠 Tech Stack
 
