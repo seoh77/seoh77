@@ -59,6 +59,6 @@
 <br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoh77&layout=compact&theme=dark" alt="Top Langs" />
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seoh707" alt="Solved.ac Profile" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoh77&layout=compact&theme=light" alt="Top Langs" />
 </div>
